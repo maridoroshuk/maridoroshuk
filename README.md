@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I’m currently working on [Places Project](https://github.com/maridoroshuk/places) and learning MERN stack\
+💻 I’m currently working on [Places Project](https://github.com/maridoroshuk/places) and learning MERN stack
 
 🌱 My Certificates
 
