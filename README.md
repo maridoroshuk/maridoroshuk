@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I’m currently working on [Places Project](https://github.com/maridoroshuk/places) and [Todo TS](https://github.com/maridoroshuk/todos-ts)\
+💻 I’m currently working on [Places Project](https://github.com/maridoroshuk/places) and [Github User Info](https://github.com/maridoroshuk/github-user-info)\
 📚 I'm currently learning MERN stack and Typescript. 
 
 🌱 My Certificates
