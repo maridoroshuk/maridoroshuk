@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-💻 I’m currently working on [Places Project](https://github.com/maridoroshuk/places) and [Github User Info](https://github.com/maridoroshuk/github-user-info)\
-📚 I'm currently learning MERN stack and Typescript. 
+💻 I’m currently working on [Online Shop App](https://github.com/maridoroshuk/online-shop)\
+📚 I'm currently learning React and Typescript.
 
 🌱 My Certificates
 
