@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-💻 I’m currently working on [Online Shop App](https://github.com/maridoroshuk/online-shop)\
-📚 I'm currently learning React and Typescript.
+💻 I’m currently working on [NFT Flowers](https://github.com/maridoroshuk/nft-flowers)\
+📚 I'm currently learning React and Blockchain technology.
 
 🌱 My Certificates
 
