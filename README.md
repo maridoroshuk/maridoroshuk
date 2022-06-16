@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-💻 I’m currently working on [NFT Flowers](https://github.com/maridoroshuk/nft-flowers)\
-📚 I'm currently learning React and Blockchain technology.
+<!-- 💻 I’m currently working on [NFT Flowers](https://github.com/maridoroshuk/nft-flowers)\ -->
+📚 I'm currently learning React and GIT.
 
 🌱 My Certificates
 
